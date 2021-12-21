@@ -1,2 +1,2 @@
 # Pixel
-This is a computer science project
+This is actually my high school computer science project
